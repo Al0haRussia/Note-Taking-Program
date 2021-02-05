@@ -34,8 +34,12 @@ No need for installation, this can be found <a href ="https://boiling-hollows-08
 ____________________________________________
 
 ### Usage
- 
-Simply type what you want into the box and save it with the save icon in the upper righthand corner  <br>
+Upon entering the website, click the "Get Started" button to access the note taking program. Then you can enter or view notes you have created. <br>
+To save notes, click on the save icon that will appear in the upper righthand corner. <br> 
+To create a new note, simply press the pencil button in the upper right hand corner.
+
+Alternativly, you can view this animated gif on the basics of the program: ![Note Taker](https://user-images.githubusercontent.com/70537665/106996859-9758b480-6736-11eb-877a-9c455ded9018.gif)
+<br>
 
 ____________________________________________
  
